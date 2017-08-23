@@ -7,4 +7,4 @@ For `count = 1024` and `loops = 100000` Running `go test ./oop ./pro ./dod -v` g
 * PRO: 0.71 s
 * DOD: 0.41 s
 
-A huge speedup, just by passing a list of structs into a function. Cache magic!
+A huge speedup, just by passing a slice of structs into a function. Cache magic!
