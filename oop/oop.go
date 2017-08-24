@@ -1,3 +1,4 @@
+//Object Oriented style.
 package oop
 
 import (

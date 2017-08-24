@@ -1,3 +1,4 @@
+//Data Oriented style.
 package dod
 
 import (

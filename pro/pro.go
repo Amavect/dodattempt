@@ -1,3 +1,4 @@
+//Procedural style.
 package pro
 
 import (
